@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-openai
+langchain-mcp-adapters
+fastapi
+uvicorn
+python-dotenv
+pydantic
+mcp
+pytest
+pytest-asyncio
+httpx
